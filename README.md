@@ -22,11 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Juliowiwiwiwi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-### 🟩 My GitHub Activity — Game of Life Style
-<img src="gameoflife/gameoflife.gif" width="100%">
 
-
----
 [![](https://visitcount.itsvg.in/api?id=Juliowiwiwiwi&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
