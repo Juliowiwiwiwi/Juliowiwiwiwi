@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="center">Tech Stack ╰(*°▽°*)╯ </h2>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
@@ -102,7 +102,7 @@
 
 ###
 
-<h2 align="center">Profile Views (´。＿。｀)</h2>
+<h2 align="center">Profile Views</h2>
 
 ###
 
@@ -118,15 +118,15 @@
 
 ###
 
-<h2 align="center">Git Hub Stats ( •̀ ω •́ ) </h2>
+<h2 align="center">Git Hub Stats</h2>
 
 ###
 
 
 ###
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Juliowiwiwiwi&show_icons=true&theme=radical&hide_border=true" />
-</p>
+</p> doesnt work rn.. look into it and fix it-->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juliowiwiwiwi&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juliowiwiwiwi&theme=radical" />
